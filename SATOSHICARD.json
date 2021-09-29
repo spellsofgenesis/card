@@ -5,9 +5,9 @@
 	"asset_owner_address": "18hMmU8FiXEWzjUU9NjzSdVmKY43oG8q8K",
 	"asset_supply": "1000.00000000",
 	"asset_divisible": true,
-	"asset_locked": false,
+	"asset_locked": true,
 	"image": "https://i.imgur.com//03cxT7y.png",
 	"image_large": "https://i.imgur.com//OpdFabN.jpg",
 	"image_title": "SATOSHICARD",
-	"artwork_image": "Spells of Genesis"
+	"artwork_project": "Spells of Genesis"
 }
